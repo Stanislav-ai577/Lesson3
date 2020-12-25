@@ -1,0 +1,154 @@
+*{
+   margin:0;
+   padding:0;
+   }
+
+   /* the width of the page */
+   .wrapper{
+      width: 1400px;
+      margin: 0 auto;
+      }
+   /* the width of the page */
+  
+   /* the style of head */
+   .shelf{
+   font-family:Raleway,Open Sans;
+   padding: 100px 0 116px 0;
+   text-align:center;
+   }
+   
+   .title{
+   text-align: center;
+   font-size:36px;
+   font-weight:400;
+   color:rgb(3, 3, 3)
+   }
+   
+   .band{
+   margin:34px 668px;
+   width:64px;
+   border:none;
+   color: rgb(253, 135, 0);
+   background-color: rgb(255, 153, 0);
+   height: 2px;
+   }
+   
+   .subtitle{
+   text-align:center;
+   font-size: 16px;;
+   color:#88898d
+   }
+   
+   .circle{
+   display:inline-block;
+   margin: 30px;
+   width:70px;
+   height:70px;
+   border:1px solid red;
+   border-radius:100%;
+   }
+   
+   .text-file{
+   font-weight:400;
+   font-size:14px;
+   color:#000000;
+   }
+   
+   .advantages-item{
+   display:inline-block;
+   text-align:center;
+   margin: 0px 20px 0;
+   max-width:350px;
+   }
+   /* the style of head */
+
+   /* the style of the main part */
+.whitetitle{
+   text-align: center;
+   font-size:36px;
+   font-weight:400;
+   color:rgb(0, 0, 0)
+}
+
+.circle--lightning{
+   background: url(/picture/lightning.png) no-repeat center ;
+}
+.circle--keyboard{
+   background: url(/picture/keyboard.png) no-repeat center ;
+}
+.circle--lamp{
+   background: url(/picture/lamp.png) no-repeat center ;
+}
+
+.main-decoration{
+   background: url(/picture/сity.jpg),linear-gradient(rgba(0.0.0.1),rgba(0.0.0.1));
+   padding: 80px 0 40px 0;
+}
+
+.title--decoration{
+   color:rgba(255, 255, 255, 0.8)
+}
+
+.band--decoration{
+   background:rgba(255, 255, 255, 0.8)
+
+}
+
+.subtitle--design{
+   color:rgba(255, 255, 255, 0.8)
+}
+
+.lever{
+   margin: 34px 654px;
+   background: transparent;
+   width: 85px;
+   height:35px;
+   color: #fff;
+   border:1px solid#ffffff;
+  
+}
+
+.lever:hover{
+   background-color:#fff;
+   color:rgba(255, 255, 255, 0.8);
+   -webkit-transition-duration: 5s;
+   transition-duration: 5s;
+   border: none;
+}
+/* the style of the main part */
+
+/* the style of the basement */
+.bottom-line{
+background-color: #000000;
+padding: 20px 0 5px 0;
+width: 1400px;
+height: 55px;
+}
+
+.pages{
+   display:block;
+   margin: 0 auto;
+   width: 321px;
+   background: url(/picture/social.png) no-repeat;
+   }
+
+.web-pages{
+   display: inline-block;
+}
+
+.web-pages a{
+   display: block;
+   height: 27px;
+   width: 42px;
+   cursor: pointer;
+}
+
+.copyright{
+   margin: 3px 0 0 0;
+   text-align: center;
+   font-family: Releway,Open Sans;
+   color: rgba(255, 255, 255, 0.4);
+   font-size: 12px;
+
+}
+/* the style of the basement */

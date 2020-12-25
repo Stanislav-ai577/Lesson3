@@ -71,17 +71,17 @@
 }
 
 .circle--lightning{
-   background: url(/picture/lightning.png) no-repeat center ;
+   background: url(../picture/lightning.png) no-repeat center ;
 }
 .circle--keyboard{
-   background: url(/picture/keyboard.png) no-repeat center ;
+   background: url(../picture/keyboard.png) no-repeat center ;
 }
 .circle--lamp{
-   background: url(/picture/lamp.png) no-repeat center ;
+   background: url(../picture/lamp.png) no-repeat center ;
 }
 
 .main-decoration{
-   background: url(/picture/сity.jpg),linear-gradient(rgba(0.0.0.1),rgba(0.0.0.1));
+   background: url(../picture/сity.jpg),linear-gradient(rgba(0.0.0.1),rgba(0.0.0.1));
    padding: 80px 0 40px 0;
 }
 
@@ -129,7 +129,7 @@ height: 55px;
    display:block;
    margin: 0 auto;
    width: 321px;
-   background: url(/picture/social.png) no-repeat;
+   background: url(../picture/social.png) no-repeat;
    }
 
 .web-pages{
